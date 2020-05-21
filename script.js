@@ -1,3 +1,2 @@
-G
-
+const a = document.querySelector("div");
 
